@@ -1,1 +1,1 @@
-# rsschool-cv
+<https://solarv70.github.io/rsschool-cv/cv>
