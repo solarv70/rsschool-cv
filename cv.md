@@ -10,9 +10,9 @@
 
 ---
 
-Location: NewYork, USA
-Email: <solarv70@gmail.com>
-Discord: Anton (@solarv70)
+Location: NewYork, USA  
+Email: <solarv70@gmail.com>  
+Discord: Anton (@solarv70)  
 GitHub: solarv70
 
 ---
@@ -21,7 +21,7 @@ GitHub: solarv70
 
 ---
 
-Aspiring frontend developer transitioning into IT with a background in technical design and a strong passion for building practical web applications. My key goal is to become a professional frontend developer and contribute to real-world projects. I’m highly motivated, fast-learning, and detail-oriented. Currently focused on mastering React and improving my development skills through personal and team projects.
+Aspiring frontend developer transitioning into IT with a background in technical design and a strong passion for building practical web applications. My key goal is to become a professional frontend developer and contribute to real-world projects. I’m highly motivated, fast-learning, and detail-oriented. Currently focused on mastering React and improving my development skills through personal and team projects.  
 Previously involved in programming in industrial automation.
 
 ---
