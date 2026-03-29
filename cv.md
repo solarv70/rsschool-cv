@@ -33,6 +33,7 @@ console.log(reverseString("Anton")); // Output: "notnA"
 ## Education
 
 TUSUR (Tomsk, Russia)
+RS SchoolRS (Currently)
 
 ## Languages
 Russian
