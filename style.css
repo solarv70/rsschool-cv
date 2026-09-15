@@ -1,0 +1,225 @@
+* {
+  box-sizing: border-box;
+  }
+
+html {
+scroll-behavior: smooth;
+}
+
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+line-height: 1.6;
+color: #333;
+background-color: #f2f2f2;
+}
+
+.container {
+max-width: 1000px;
+margin: 0 auto;
+padding: 0 20px;
+}
+
+/* Header */
+
+.header {
+padding: 40px 0;
+text-align: center;
+background-color: #ffffff;
+}
+
+.profile-photo {
+display: block;
+width: 200px;
+height: 200px;
+margin: 0 auto 20px;
+object-fit: cover;
+border-radius: 50%;
+}
+
+.header h1 {
+margin: 0;
+font-size: 36px;
+}
+
+.header p {
+margin: 5px 0 0;
+font-size: 20px;
+}
+
+/* Navigation */
+
+.navigation {
+background-color: #333;
+}
+
+.navigation ul {
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+gap: 10px 25px;
+margin: 0;
+padding: 15px 20px;
+list-style: none;
+}
+
+.navigation a {
+color: #ffffff;
+text-decoration: none;
+font-weight: bold;
+}
+
+.navigation a:hover {
+text-decoration: underline;
+}
+
+/* Main */
+
+main {
+padding: 30px 0;
+}
+
+.section {
+margin-bottom: 25px;
+padding: 25px;
+background-color: #ffffff;
+border-radius: 8px;
+}
+
+.section h2 {
+margin-top: 0;
+margin-bottom: 15px;
+font-size: 26px;
+}
+
+/* Lists */
+
+.section ul {
+margin: 0;
+padding-left: 25px;
+}
+
+.contact ul {
+list-style: none;
+padding-left: 0;
+}
+
+.contact li {
+margin-bottom: 8px;
+}
+
+/* Links */
+
+a {
+color: #1a5fb4;
+}
+
+a:hover {
+color: #0d3d75;
+}
+
+/* Code */
+
+pre {
+overflow-x: auto;
+margin: 0;
+padding: 20px;
+background-color: #eeeeee;
+border-radius: 6px;
+}
+
+code {
+font-family: "Courier New", monospace;
+}
+
+/* Projects */
+
+.project {
+margin-bottom: 25px;
+}
+
+.project:last-child {
+margin-bottom: 0;
+}
+
+.project h3 {
+margin-top: 0;
+margin-bottom: 8px;
+}
+
+.project p {
+margin-top: 0;
+}
+
+/* Footer */
+
+.footer {
+padding: 25px 0;
+text-align: center;
+background-color: #333;
+color: #ffffff;
+}
+
+.footer .container {
+display: flex;
+align-items: center;
+justify-content: center;
+flex-wrap: wrap;
+gap: 20px;
+}
+
+.footer a {
+color: #ffffff;
+}
+
+.footer img {
+display: block;
+}
+
+/* Mobile */
+
+@media (max-width: 600px) {
+
+.container {
+padding: 0 15px;
+}
+
+.header {
+padding: 30px 0;
+}
+
+.header h1 {
+font-size: 28px;
+}
+
+.header p {
+font-size: 18px;
+}
+
+.profile-photo {
+width: 160px;
+height: 160px;
+}
+
+.navigation ul {
+flex-direction: column;
+align-items: center;
+gap: 8px;
+}
+
+.section {
+padding: 20px;
+}
+
+.section h2 {
+font-size: 23px;
+}
+
+pre {
+font-size: 13px;
+}
+
+.footer .container {
+flex-direction: column;
+}
+}

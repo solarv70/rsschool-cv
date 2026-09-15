@@ -1,1 +1,1 @@
-CV#1. Markdown & Git
+https://solarv70.github.io/rsschool-cv/
